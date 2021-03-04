@@ -1,4 +1,4 @@
-package vishal;
+
 
 public class SuiteACRoom extends HotelRoom {
 	private int ratePerSqFeet ;
