@@ -1,4 +1,4 @@
-package vishal;
+
 
 public class HotelRoom {
 	protected String hotelName ;
