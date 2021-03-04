@@ -1,4 +1,3 @@
-package vishal;
 
 public class DeluxeRoom extends HotelRoom {
 protected int ratePerSqFeet ;
