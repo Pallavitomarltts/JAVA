@@ -1,4 +1,4 @@
-package vishal;
+
 
 public class DeluxeACRoom extends DeluxeRoom {
 	protected static int ratePerSqFeet; 
